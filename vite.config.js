@@ -25,7 +25,7 @@ export default defineConfig({
   build: {
     rollupOptions: {
       // Do not exclude `antd` from the build
-      external: [],
+      external: ['antd'],
     },
   },
 });
