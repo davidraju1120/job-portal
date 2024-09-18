@@ -16,7 +16,7 @@ import { Label } from './ui/label';
 import { Input } from './ui/input';
 import { zodResolver } from "@hookform/resolvers/zod";
 import { z } from 'zod';
-import { message } from 'antd';
+// import { message } from 'antd';
 import { Controller, useForm } from 'react-hook-form';
 import useFetch from '@/hooks/use-fetch';
 import { applyToJob } from '@/api/apiApplication';
