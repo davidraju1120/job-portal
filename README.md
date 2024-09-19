@@ -23,6 +23,7 @@
 - **Web3 Forms**: Simplified form handling to enhance interactivity.
 
 Join **HireHub** and bridge the gap between talent and opportunity with style and efficiency.
-![image](https://github.com/user-attachments/assets/dec38a2b-16cd-4865-a305-56edcec697b4)
+![Screenshot 2024-09-17 184517](https://github.com/user-attachments/assets/341631eb-9c0e-4980-a3e6-dd2ec0b28c6f)
+
 
 
