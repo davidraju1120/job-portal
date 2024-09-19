@@ -85,6 +85,14 @@ export default {
   	}
   },
   
-  plugins: [require("tailwindcss-animate")],
+  plugins: [require("tailwindcss-animate"), function({addUtilities}){
+	addUtilities({
+		'border-border':{
+
+		},
+	})
+}
+  ]
+  ,
 }
 
