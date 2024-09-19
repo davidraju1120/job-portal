@@ -3,7 +3,7 @@ import React from 'react'
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from './ui/card';
 import { HeartIcon, MapIcon, MapPinIcon, Trash2Icon } from 'lucide-react';
 import { Link } from 'react-router-dom';
-import { Button } from 'antd';
+import { Button } from "./ui/button";
 import useFetch from '@/hooks/use-fetch';
 import { deleteJob,saveJob} from '@/api/apiJobs'
 import { useState } from 'react';
