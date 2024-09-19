@@ -1,8 +1,28 @@
-# React + Vite
+<div align="center" style="background-color:#000000; padding:20px; border-radius:10px;">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🧡🖤 <span style="color:orange;">**HireHub**</span> - Your Ultimate Job Portal
 
-Currently, two official plugins are available:
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<a href="https://hiree-hub.netlify.app/">**HireHub**</a> is a feature-rich job portal designed to streamline the job search and recruitment process. With a sleek and intuitive interface, powered by modern technologies like **React.js**, **Tailwind CSS**, **Supabase**, **Clerk**, and **Web3 Forms**, HireHub offers both candidates and recruiters a seamless experience.
+
+## 🌟 <span style="color:orange;">**Features**</span>:
+- **🧑‍💼 Add Jobs**: Recruiters can easily post job listings and manage openings.
+- **🏢 Add Your Company**: Create a company profile to attract potential candidates and showcase your brand.
+- **📝 Apply for Jobs**: Candidates can browse job listings and apply with just a few clicks.
+- **🔎 Find Jobs**: Use our advanced search and filtering system to find jobs that match your skills and preferences.
+- **📄 Upload Resumes**: Candidates can upload their resumes directly, making it easier to apply to multiple jobs.
+- **📥 Download Resumes**: Recruiters have the option to download candidate resumes for easy offline access.
+- **🚀 And Much More!** 
+
+## 🛠 <span style="color:orange;">**Tech Stack**</span>:
+- **Supabase**: For seamless and scalable database management.
+- **Clerk**: Secure and efficient authentication for all users.
+- **React.js**: A dynamic frontend for an engaging user experience.
+- **Tailwind CSS**: Customizable and aesthetic design tailored with orange and black accents.
+- **Web3 Forms**: Simplified form handling to enhance interactivity.
+
+Join **HireHub** and bridge the gap between talent and opportunity with style and efficiency.
+![image](https://github.com/user-attachments/assets/dec38a2b-16cd-4865-a305-56edcec697b4)
+
+
