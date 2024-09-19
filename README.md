@@ -4,7 +4,7 @@
 
 </div>
 
-<a href="https://hire-hub-lx18.vercel.app/HireHub**</a> is a feature-rich job portal designed to streamline the job search and recruitment process. With a sleek and intuitive interface, powered by modern technologies like **React.js**, **Tailwind CSS**, **Supabase**, **Clerk**, and **Web3 Forms**, HireHub offers both candidates and recruiters a seamless experience.
+<a href="https://hire-hub-lx18.vercel.app/>HireHub**</a> is a feature-rich job portal designed to streamline the job search and recruitment process. With a sleek and intuitive interface, powered by modern technologies like **React.js**, **Tailwind CSS**, **Supabase**, **Clerk**, and **Web3 Forms**, HireHub offers both candidates and recruiters a seamless experience.
 
 ## 🌟 <span style="color:orange;">**Features**</span>:
 - **🧑‍💼 Add Jobs**: Recruiters can easily post job listings and manage openings.
